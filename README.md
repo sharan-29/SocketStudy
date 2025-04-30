@@ -107,9 +107,13 @@ server_socket.close()
 ```
 ## OUTPUT:
 ## CLIENT:
-![image](https://github.com/user-attachments/assets/be9ee5f9-8f03-4f04-a984-1030d08d9915)
+
+![CLIENT 1](https://github.com/user-attachments/assets/8e1a23ae-334b-4d35-b826-bc43bc5014f9)
+
 ## SERVER
-![image](https://github.com/user-attachments/assets/addc19e7-8015-4328-82b7-af9aa8218250)
+![SEREVER 1](https://github.com/user-attachments/assets/67ffec57-8f3a-436d-82fb-e14b632c39fb)
+
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
